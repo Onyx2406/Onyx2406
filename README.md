@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sancheti</h1>
-<h3 align="center">A passionate Frontend Developer and Security Researcher from India</h3>
+<h3 align="center">A passionate Developer and Security Researcher from India</h3>
 
 - 👨‍💻 All of my projects are available at [http://yash24.me](http://yash24.me)
 
