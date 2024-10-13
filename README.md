@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [http://yash24.me](http://yash24.me)
 
-- 📫 How to reach me **yashsancheti24@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
